@@ -1,1 +1,1 @@
-print('Test commit from Git for Sync')
+print('Test commit from Git for Sync edit from PC1')
